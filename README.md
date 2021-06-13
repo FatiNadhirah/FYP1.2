@@ -3,7 +3,7 @@ cleaned version
 
 Function
 
-Student register
-Login (admin, staff, student)
-CRUD questions (admin)
-View question (student)
+Student register /
+Login (admin, staff, student) /
+CRUD questions (admin) / 
+View question (student) /
